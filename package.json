@@ -1,7 +1,7 @@
 {
   "name": "starting_file",
   "version": "1.0.0",
-  "description": "Wesh alors :)",
+  "description": "Jeux covid19 :)",
   "main": "js.js",
   "scripts": {
     "sass" : "sass --watch ./main.scss:./style.css"
@@ -9,12 +9,12 @@
     
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KobeKenjo/basic_project_file.git"
+    "url": "https://github.com/ADaouadji/JS-click-game.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KobeKenjo/basic_project_file/issues"
+    "url": "https://github.com/ADaouadji/"
   },
-  "homepage": "https://github.com/KobeKenjo/basic_project_file#readme"
+  "homepage": "https://github.com/ADaouadji/JS-click-game.git"
 }
